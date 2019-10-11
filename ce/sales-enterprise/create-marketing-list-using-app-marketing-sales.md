@@ -106,6 +106,9 @@ Your marketing list is the core of running a successful marketing campaign. It c
         -   Keep only the selected members in the marketing list  
   
         -   Keep all the members returned by the search in the marketing list  
+        
+  > [!NOTE]
+  >  A marketing list can contain upto a maximum of 150,000 members. Consider upgrading to the Sales Enterprise app if you need additional members per list.
   
 ## Define the member selection criteria for a dynamic marketing list  
   
