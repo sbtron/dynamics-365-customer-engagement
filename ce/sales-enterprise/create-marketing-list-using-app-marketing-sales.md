@@ -73,7 +73,7 @@ Your marketing list is the core of running a successful marketing campaign. It c
   
     
   > [!NOTE]
-  >  You can add upto 120,000 members to a marketing list at once. If you need to add more than 120,000 members to a marketing list then you should split those members into multiple add operations. One way to do this is by using multiple filters in the Advanced Find dialog such that each filter returns less than 120,000 members.  
+  >  You can add up to 120,000 members to a marketing list at once. If you need to add more than 120,000 members to a marketing list then you should split those members into multiple add operations. One way to do this is by using multiple filters in the Advanced Find dialog such that each filter returns less than 120,000 members.  
     
     #### Remove using Advanced Find  
   
