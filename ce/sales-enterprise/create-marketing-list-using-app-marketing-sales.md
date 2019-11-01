@@ -71,6 +71,10 @@ Your marketing list is the core of running a successful marketing campaign. It c
   
         -   Add all the members returned by the search to the marketing list  
   
+    
+  > [!NOTE]
+  >  You can add upto 120,000 members to a marketing list at once. If you need to add more than 120,000 members to a marketing list then you should split those members into multiple add operations. One way to do this is by using multiple filters in the Advanced Find dialog such that each filter returns less than 120,000 members.  
+    
     #### Remove using Advanced Find  
   
     1.  In the **Add Members** dialog box, click **Select**, and then select the field on which you want to search, such as **Account Name** or **City**. You can select fields from the current record type, or from related record types. When you select a related record type, a new line appears with another Select list for the related record type.  
@@ -106,9 +110,7 @@ Your marketing list is the core of running a successful marketing campaign. It c
         -   Keep only the selected members in the marketing list  
   
         -   Keep all the members returned by the search in the marketing list  
-        
-  > [!NOTE]
-  >  A marketing list can contain up to a maximum of 150,000 members. Consider upgrading to the Sales Enterprise app if you need to add  additional members per list.
+       
   
 ## Define the member selection criteria for a dynamic marketing list  
   
